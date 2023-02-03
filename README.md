@@ -6,7 +6,18 @@
  <br>
 
   
-  <h3> Identify FRs and NFRs:
+  <h3>Q1 Identify FRs and NFRs:
+  
+   - Login/ SignUp 
     
+   - Records of all the books present in the library
+    
+   - Search bar for users
+    
+   - Issue/return books
+    
+   - Update Recirds
+    
+   - Generate monthly reports
     
 

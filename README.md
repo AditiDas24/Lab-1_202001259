@@ -10,7 +10,7 @@
   
   <h4> Functional Requirements </h4>
   
-   - <h5> Login/ signup, signout and authentication of users :</h5> Anybody who wants to issue books from the LIS must be a member of the institute in some capacity, i.e either as a student or an employee. If the member does not have an account, option to create an account must be available and verfication for new members should be available.
+   - <h5> Login/ signup, signout and authentication of users :</h5> Anybody who wants to issue books from the LIS must be a member of the institute in some capacity, i.e either as a student or an employee. If the member does not have an account, option to create an account must be available and verfication for new members should be available. Contact details must be provided in case the LIS wants to contact any user.
     
   - <h5> Records of all the books present in the library :</h5> The database should contain all pertinent details of all books. This would include unique book id, ISBN number, name of the book, name of the author, edition number, genre, type of book, date of purchase, date of last issue and id of the user who last issued it.
     
@@ -31,5 +31,9 @@
   
   <h4>Non Functional Requirements </h4> 
   
-    
+  - <b>Security</b>:- No user should be able to find out other user's personal details such as id, password, mobile number etc.
+  - <b>Scalability</b>:- The system should be able to handle a large number of users and be able to handle multiple requests at a time.
+  - <b>Availability</b>:- It is supposed to be available 24X7 as it is an online system.
+  - <b>Ease of use</b> The interface should be easy to use and understand.
+  - <b>Reliability</b>:- The system should be reliable and any changes to the databse should show up everywhere.
 

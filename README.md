@@ -37,3 +37,27 @@
   - <h5><b>Ease of use:</b></h5> The interface should be easy to use and understand.
   - <h5><b>Reliability:</b></h5> The system should be reliable and any changes to the databse should show up everywhere.
 
+  
+  <br>
+  
+  <h3>Q2. Identify scope, features and non-functional aspects of the following problem.</h3>
+  Ans:- The Scope, features and non-functional requirements for this system are:-
+<h4>Scope:-</h4>
+Approximately, 5% of the world (466 million people) suffer from hearing loss. This application will be of great use to the these people. Apart from that it can also be useful to people who are engaged in their phones and thus are unaware of their surroundings.
+
+<h4>Features:-</h4>
+
+- The app should be able to recognize sounds like car horns and babies.
+- It should be able to notify the user incase of a malfunction in the system.
+- It should be able to contact emergency services.
+- It should work and record background noises 24X7 to improve the algorithm.
+
+<h4>Non-Functional Requirements:-</h4>
+
+- It should predict the results on time without delay.
+- It should be able to deduct if their is too much noise in the surrounding.
+- The interfaqce should be easy to sue and updates must take place regularly.
+- large number of people should be able to use it at the same time.
+- Irrelevant data should be deleted from time to time.
+
+

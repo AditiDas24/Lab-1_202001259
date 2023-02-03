@@ -31,9 +31,9 @@
   
   <h4>Non Functional Requirements </h4>  
   
-  - <b>Security</b>:- No user should be able to find out other user's personal details such as id, password, mobile number etc.
-  - <b>Scalability</b>:- The system should be able to handle a large number of users and be able to handle multiple requests at a time.
-  - <b>Availability</b>:- It is supposed to be available 24X7 as it is an online system.
-  - <b>Ease of use</b> The interface should be easy to use and understand.
-  - <b>Reliability</b>:- The system should be reliable and any changes to the databse should show up everywhere.
+  - <h5><b>Security</b></h5>:- No user should be able to find out other user's personal details such as id, password, mobile number etc.
+  - <h5><b>Scalability</b></h5>:- The system should be able to handle a large number of users and be able to handle multiple requests at a time.
+  - <h5><b>Availability</b></h5>:- It is supposed to be available 24X7 as it is an online system.
+  - <h5><b>Ease of use</b></h5>:- The interface should be easy to use and understand.
+  - <h5><b>Reliability</b></h5>:- The system should be reliable and any changes to the databse should show up everywhere.
 

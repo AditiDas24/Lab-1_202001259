@@ -8,7 +8,9 @@
   
   <h3>Q1 Identify FRs and NFRs:</h3>
   
-   - Login/ SignUp 
+  <h4> Functional Requirements </h4>
+  
+   - Login/ Signup and signout 
     
    - Records of all the books present in the library
     
@@ -16,8 +18,9 @@
     
    - Issue/return books
     
-   - Update Recirds
+   - Update Records
     
-   - Generate monthly reports
+   - Generating monthly reports
+  
     
 

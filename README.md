@@ -29,7 +29,7 @@
     
    - Generating monthly reports : All transactions must be updated monthly and a report should be generated.
   
-  <h4>Non Functional Requirements </h4> 
+  <h4>Non Functional Requirements </h4>  
   
   - <b>Security</b>:- No user should be able to find out other user's personal details such as id, password, mobile number etc.
   - <b>Scalability</b>:- The system should be able to handle a large number of users and be able to handle multiple requests at a time.
